@@ -43,7 +43,7 @@
 
 I am a **Pune-based AI Engineer & Full-Stack Developer** (B.Tech CSE, CGPA **8.9**, Vishwakarma University) with production internship experience building **LLM-powered chatbots**, **AI agent pipelines**, **generative AI systems**, and **React/Flask** web applications.
 
-I enjoy shipping intelligent products end-to-end — from prompt engineering and RAG pipelines to REST APIs, MongoDB data layers, and responsive React interfaces. My work combines software engineering discipline with a strong GenAI product mindset.
+I enjoy shipping intelligent products end-to-end â€” from prompt engineering and RAG pipelines to REST APIs, MongoDB data layers, and responsive React interfaces. My work combines software engineering discipline with a strong GenAI product mindset.
 
 I am proficient in **Python**, **REST APIs**, **NLP**, **Retrieval-Augmented Generation (RAG)**, and **Agile** software development, and I am seeking high-impact **AI Engineering**, **Software Development**, or **GenAI Developer** roles.
 
@@ -53,7 +53,7 @@ I am proficient in **Python**, **REST APIs**, **NLP**, **Retrieval-Augmented Gen
 - Software Engineer
 - Full Stack Developer
 - Backend / API Engineer
-- Onsite • Hybrid • Remote (Pune / India-based)
+- Onsite â€¢ Hybrid â€¢ Remote (Pune / India-based)
 - Immediate Joiner
 
 ---
@@ -78,7 +78,7 @@ I am proficient in **Python**, **REST APIs**, **NLP**, **Retrieval-Augmented Gen
 <img src="https://skillicons.dev/icons?i=flask,nodejs,mongodb,mysql"/>
 </p>
 
-## Cloud • DevOps • Tools
+## Cloud â€¢ DevOps â€¢ Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
@@ -90,21 +90,21 @@ I am proficient in **Python**, **REST APIs**, **NLP**, **Retrieval-Augmented Gen
 
 | Domain | Proficiency | Details |
 |----------|------------|----------|
-| LLM Integration | ⭐⭐⭐⭐⭐ | OpenAI API, Prompt Engineering, Conversational AI |
-| RAG Systems | ⭐⭐⭐⭐⭐ | Retrieval pipelines, multi-source knowledge grounding |
-| AI Agents | ⭐⭐⭐⭐☆ | Multi-agent systems, automation workflows |
-| NLP | ⭐⭐⭐⭐☆ | Intent classification, text analytics, LangChain |
-| Generative AI | ⭐⭐⭐⭐☆ | Structured generation, hallucination reduction |
-| Machine Learning | ⭐⭐⭐⭐☆ | scikit-learn, anomaly detection, predictive modelling |
-| Data & Visualization | ⭐⭐⭐⭐☆ | Feature engineering, Power BI dashboards |
-| Full-Stack Deployment | ⭐⭐⭐⭐☆ | Flask APIs, React UI, MongoDB integration |
+| LLM Integration | â­â­â­â­â­ | OpenAI API, Prompt Engineering, Conversational AI |
+| RAG Systems | â­â­â­â­â­ | Retrieval pipelines, multi-source knowledge grounding |
+| AI Agents | â­â­â­â­â˜† | Multi-agent systems, automation workflows |
+| NLP | â­â­â­â­â˜† | Intent classification, text analytics, LangChain |
+| Generative AI | â­â­â­â­â˜† | Structured generation, hallucination reduction |
+| Machine Learning | â­â­â­â­â˜† | scikit-learn, anomaly detection, predictive modelling |
+| Data & Visualization | â­â­â­â­â˜† | Feature engineering, Power BI dashboards |
+| Full-Stack Deployment | â­â­â­â­â˜† | Flask APIs, React UI, MongoDB integration |
 
 ---
 
 # Featured Projects
 
 <details>
-<summary><b>FemSafe – Women Safety AI Agent</b></summary>
+<summary><b>FemSafe â€“ Women Safety AI Agent</b></summary>
 
 ### Behavioral Anomaly Detection & Alert Pipeline
 
@@ -132,7 +132,7 @@ Building an AI agent pipeline that learns behavioral patterns, triggers anomaly 
 |----------|----------|
 | Stack | AI, Document Generation, Digital Workflows |
 | Scale | Farmer-facing insurance support product |
-| Performance | Evidence capture → claim document generation |
+| Performance | Evidence capture â†’ claim document generation |
 | Security | Transparent claim tracking workflows |
 | Impact | Helps farmers fight delayed or unfair settlements |
 | Repository | https://github.com/shreyaahiremath/ClaimSure-for-farmers. |
@@ -164,14 +164,14 @@ Context-aware AI chatbot with LLM integration, NLP intent classification, and a 
 ---
 
 <details>
-<summary><b>RelayIQ – AI Incident Report Generator</b></summary>
+<summary><b>RelayIQ â€“ AI Incident Report Generator</b></summary>
 
 ### Generative AI Report Structuring Pipeline
 
 | Category | Details |
 |----------|----------|
 | Stack | Generative AI, Prompt Engineering, LLM Orchestration |
-| Scale | Unstructured → structured report conversion |
+| Scale | Unstructured â†’ structured report conversion |
 | Performance | Chain-of-thought + output constraints for consistency |
 | Security | Hallucination-reduction techniques |
 | Impact | Faster, more consistent incident report generation |
@@ -184,7 +184,7 @@ Generative AI pipeline that converts unstructured incident text into structured 
 ---
 
 <details>
-<summary><b>FaithPoll – Real-Time Polling Platform</b></summary>
+<summary><b>FaithPoll â€“ Real-Time Polling Platform</b></summary>
 
 ### Full-Stack Live Analytics Web App
 
@@ -217,7 +217,7 @@ Full-stack polling platform with a React frontend, Flask REST API backend, Mongo
 | Impact | Identifies efficient travel paths between cities |
 | Repository | https://github.com/shreyaahiremath/optimal_route_planning |
 
-Genetic algorithm–based route optimization system that visualizes multiple possible routes, highlights the optimal path, and displays path costs on an interactive map dashboard.
+Genetic algorithmâ€“based route optimization system that visualizes multiple possible routes, highlights the optimal path, and displays path costs on an interactive map dashboard.
 
 </details>
 
@@ -226,7 +226,7 @@ Genetic algorithm–based route optimization system that visualizes multiple pos
 # Experience
 
 ## AI Engineering Intern
-**Blockseblock** • Aug 2025 – Sep 2025
+**Blockseblock** â€¢ Aug 2025 â€“ Sep 2025
 
 Designed and deployed an AI-powered chatbot using Python, Flask, and NLP that automated response workflows and reduced manual query resolution time by **60%**.
 
@@ -247,10 +247,10 @@ Designed and deployed an AI-powered chatbot using Python, Flask, and NLP that au
 
 | Recognition | Details |
 |--------------|----------|
-| Smart India Hackathon 2024 | Top 50 Team — SIH Campus Edition |
+| Smart India Hackathon 2024 | Top 50 Team â€” SIH Campus Edition |
 | Ideathon by Wilo 2023 | Champion |
 | SheInspires Hackathon 2.0 | Participant (2026) |
-| Revolution Club, VU | HR Head — recruitment pipeline & 5+ career/networking events |
+| Revolution Club, VU | HR Head â€” recruitment pipeline & 5+ career/networking events |
 | Academic Performance | B.Tech CSE CGPA 8.9 / 10 |
 
 ---
@@ -374,8 +374,8 @@ Open_To:
 
 <p align="center">
 
-<a href="mailto:hiremathsk19@gmail.com">Email</a> •
-<a href="https://linkedin.com/in/shreya-hiremath-172051290">LinkedIn</a> •
+<a href="mailto:hiremathsk19@gmail.com">Email</a> â€¢
+<a href="https://linkedin.com/in/shreya-hiremath-172051290">LinkedIn</a> â€¢
 <a href="https://github.com/shreyaahiremath">GitHub</a>
 
 </p>
@@ -389,3 +389,5 @@ Open_To:
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:6C63FF,50:7C3AED,100:4F46E5"/>
 
 </div>
+
+<!-- profile-owner-sync: 2026-08-16T23:50:32.3273047+05:30 -->
