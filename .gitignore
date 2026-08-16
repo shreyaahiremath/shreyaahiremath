@@ -4,3 +4,7 @@ repos.json
 profile_repo.json
 .DS_Store
 Thumbs.db
+AUTH_CODE.txt
+PUSH_STATUS.txt
+PROFILE_CHECK.txt
+.tools/
