@@ -2,9 +2,16 @@ resume_extract.txt
 ref_kashif.md
 repos.json
 profile_repo.json
+profile-slice.txt
+profile-main-slice.txt
+gql.json
+SWITCH_ACCOUNTS.md
 .DS_Store
 Thumbs.db
-AUTH_CODE.txt
+AUTH_*.txt
 PUSH_STATUS.txt
 PROFILE_CHECK.txt
+.auth-*.log
 .tools/
+.workflow-deferred/
+.github/workflows/snake.yml
